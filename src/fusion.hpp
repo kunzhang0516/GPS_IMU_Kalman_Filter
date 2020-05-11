@@ -10,7 +10,7 @@
 #define fusion_hpp
 
 #include <stdio.h>
-#include "lib/Eigen/Dense"
+#include ".././lib/Eigen/Dense"
 #include "ekf.hpp"
 #include "geo_ned.hpp"
 #include <iostream>

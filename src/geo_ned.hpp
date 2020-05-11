@@ -10,7 +10,7 @@
 #define geo_ned_hpp
 
 #include <stdio.h>
-#include "Eigen/Dense"
+#include ".././lib/Eigen/Dense"
 #include <fstream>
 #include <sstream>
 #include <stdlib.h>

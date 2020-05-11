@@ -11,7 +11,7 @@
 
 #include <stdio.h>
 #include "utils.hpp"
-#include "lib/Eigen/Dense"
+#include ".././lib/Eigen/Dense"
 
 /**
  * @brief EKF base class implementing generic Extended Kalman Filter

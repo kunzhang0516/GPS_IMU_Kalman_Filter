@@ -9,7 +9,7 @@
 #ifndef utils_hpp
 #define utils_hpp
 
-#include "Eigen/Dense"
+#include ".././lib/Eigen/Dense"
 
 Eigen::MatrixXd calculate_joacobian(const Eigen::VectorXd& v, const double dt);
 
